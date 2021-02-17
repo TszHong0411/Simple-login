@@ -1,6 +1,7 @@
 # Easy login system
 
 Docs: [中文](https://github.com/TszHong0411/Simple-login/blob/main/README_zh.md)
+
 Example: [https://tszhong-api.avosapps.us/](https://tszhong-api.avosapps.us/)
 
 ---
