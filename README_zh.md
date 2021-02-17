@@ -1,5 +1,6 @@
 # 簡易登入系統
 
+自述：[英文](https://github.com/TszHong0411/Simple-login/blob/main/README.md)
 示例：[https://tszhong-api.avosapps.us/](https://tszhong-api.avosapps.us/)
 
 ---
