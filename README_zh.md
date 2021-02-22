@@ -13,4 +13,4 @@
 
 # 截圖
 
-![Siteshot](https://cdn.jsdelivr.net/gh/tszhong0411/image/simple-login-siteshot.png)
+![Siteshot](https://cdn.jsdelivr.net/gh/tszhong0411/image/simple-login-siteshot-2.png)

@@ -13,4 +13,4 @@ Example: [https://tszhong-login.avosapps.us/](https://tszhong-login.avosapps.us/
 
 # Screenshot
 
-![Siteshot](https://cdn.jsdelivr.net/gh/tszhong0411/image/simple-login-siteshot.png)
+![Siteshot](https://cdn.jsdelivr.net/gh/tszhong0411/image/simple-login-siteshot-2.png)
