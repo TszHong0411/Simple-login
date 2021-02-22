@@ -3,9 +3,9 @@ $username = "admin";
 $password = "admin";
 
 if ($_POST['username'] == $username && $_POST['password'] == $password ) {
-    echo "登入成功";
+    echo "Sign in suceesfully";
 } else {
-    echo "登入失敗";
+    echo "Login failed. Redirect back to homepage after 3 seconds";
     header( "refresh:3;url=https://tszhong-api.avosapps.us/" );
 }
 ?>

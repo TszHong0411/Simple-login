@@ -9,12 +9,13 @@
 <body>
     <form action="login.php" method="POST">
         <p align="center">
-            用戶名：<input type="text" name="username">
+            Username:
+            <input type="text" name="username">
             <br>
-            密碼：
+            Password:
             <input type="password" name="password">
             <br>
-            <input type="submit" name="login" value="登入">
+            <input type="submit" name="login" value="Login">
         </p>
     </form>
 </body>
